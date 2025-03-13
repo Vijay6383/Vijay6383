@@ -13,13 +13,13 @@ Welcome to my GitHub profile! I’m a Data Science enthusiast with a strong engi
 - ✨ I’m eager to apply my skills and knowledge in a collaborative environment at a reputed organization in the field of Data Science and Analytics.
 
 ## 📚 Recent Publication
-- **Statistics in Action: How Statistical Methods Use Data to Make Informed Decisions**([link-to-Article]([https://github.com/Vijay6383/Dominos---Predictive-Purchase-Order-System](https://medium.com/@mosesbeard6383/statistics-in-action-how-statistical-methods-use-data-to-make-informed-decisions-33716fc89c00)))
+- **Statistics in Action: How Statistical Methods Use Data to Make Informed Decisions** [link-to-Article](https://medium.com/@mosesbeard6383/statistics-in-action-how-statistical-methods-use-data-to-make-informed-decisions-33716fc89c00)
 
 ## 💻 My Projects
 Here are some of my notable projects:
-- [** AI-Multilingual-Translater**]([link-to-project](https://github.com/Vijay6383/AI-Multilingual-Translater)): A Project for a multilingual translation web app that allows users to input text in any language and automatically translates it to English.
-- [** Dominos---Predictive-Purchase-Order-System**]([link-to-project](https://github.com/Vijay6383/Dominos---Predictive-Purchase-Order-System)): A project for optimizing the process of ordering ingredients by predicting future sales and creating a purchase order. By accurately forecasting sales.
-- [**  Microsoft-Classifying-Cybersecurity-Incidents-with-Machine-Learning**]([link-to-project](https://github.com/Vijay6383/Microsoft-Classifying-Cybersecurity-Incidents-with-Machine-Learning)): A project for enhancing the efficiency of Security Operation Centers (SOCs) by developing a machine learning model that can accurately predict the triage grade of cybersecurity incidents.
+- [** AI-Multilingual-Translater**](https://github.com/Vijay6383/AI-Multilingual-Translater): A Project for a multilingual translation web app that allows users to input text in any language and automatically translates it to English.
+- [** Dominos---Predictive-Purchase-Order-System**](https://github.com/Vijay6383/Dominos---Predictive-Purchase-Order-System): A project for optimizing the process of ordering ingredients by predicting future sales and creating a purchase order. By accurately forecasting sales.
+- [**  Microsoft-Classifying-Cybersecurity-Incidents-with-Machine-Learning**](https://github.com/Vijay6383/Microsoft-Classifying-Cybersecurity-Incidents-with-Machine-Learning): A project for enhancing the efficiency of Security Operation Centers (SOCs) by developing a machine learning model that can accurately predict the triage grade of cybersecurity incidents.
 
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/vijay-moses-avm/)
