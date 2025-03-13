@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I’m a Data Science enthusiast with a strong engi
 
 ## 💻 My Projects
 Here are some of my notable projects:
-- ** AI-Multilingual-Translater**[Link](https://github.com/Vijay6383/AI-Multilingual-Translater): A Project for a multilingual translation web app that allows users to input text in any language and automatically translates it to English.
-- ** Dominos---Predictive-Purchase-Order-System**[Link](https://github.com/Vijay6383/Dominos---Predictive-Purchase-Order-System): A project for optimizing the process of ordering ingredients by predicting future sales and creating a purchase order. By accurately forecasting sales.
-- **  Microsoft-Classifying-Cybersecurity-Incidents-with-Machine-Learning**[Link](https://github.com/Vijay6383/Microsoft-Classifying-Cybersecurity-Incidents-with-Machine-Learning): A project for enhancing the efficiency of Security Operation Centers (SOCs) by developing a machine learning model that can accurately predict the triage grade of cybersecurity incidents.
+- **AI-Multilingual-Translater** [Link](https://github.com/Vijay6383/AI-Multilingual-Translater): A Project for a multilingual translation web app that allows users to input text in any language and automatically translates it to English.
+- **Dominos---Predictive-Purchase-Order-System** [Link](https://github.com/Vijay6383/Dominos---Predictive-Purchase-Order-System): A project for optimizing the process of ordering ingredients by predicting future sales and creating a purchase order. By accurately forecasting sales.
+- **Microsoft-Classifying-Cybersecurity-Incidents-with-Machine-Learning** [Link](https://github.com/Vijay6383/Microsoft-Classifying-Cybersecurity-Incidents-with-Machine-Learning): A project for enhancing the efficiency of Security Operation Centers (SOCs) by developing a machine learning model that can accurately predict the triage grade of cybersecurity incidents.
 
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/vijay-moses-avm/)
