@@ -28,5 +28,6 @@ Here are some of my notable projects:
 ## 🧑‍💻 GitHub Stats
 
 ![Vijay6383's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijay6383&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay6383&layout=donut&hide_title=true&theme=radical)
 
 
