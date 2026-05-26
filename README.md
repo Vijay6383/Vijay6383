@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m a Data Science enthusiast with a strong engineering background. Currently, I’m focused on machine learning, AI, and data analytics, with a passion for solving complex problems using data.
 
 ## 🚀 About Me
-- 🎓 **Profession:** NSDC IITM Certified Master in Data Science & Google Certified Professional in Data Analytics.
+- 🎓 **Profession:** NSDC IITM Certified in Advanced Programming - Data Science & Google Certified Professional in Data Analytics.
 - 💻 **Education & Certifications:**
   - Graduate Engineer with a passion for Data Science.
   - Six-month certification in **Google Data Analytics**, where I learned to collect, clean, preprocess data, and conduct Exploratory Data Analysis (EDA).
